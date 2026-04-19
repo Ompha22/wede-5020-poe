@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+Kefi's catering services-POE website
 
 ## Student Information
 **Student number:** Your student number <br>
