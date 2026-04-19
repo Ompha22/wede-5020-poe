@@ -2,12 +2,12 @@
 Kefi's catering services-POE website
 
 ## Student Information
-**Student number:** Your student number <br>
-**Student Name:** Your full name
+**Student number:** 10473105 <br>
+**Student Name:** Ompha
 
 ## Project Overview
 
-Pull this from your project proposal.
+Kefi’s Catering is a food business that was started in 2022 by Kefi, driven by a love for cooking and a dream to share tasty, well-prepared meals with people. It began as a small home-based service and slowly grew as more customers enjoyed the food and recommended it to others. Today, Kefi’s Catering provides catering for different events like weddings, birthdays, and corporate functions, always focusing on fresh ingredients, beautiful presentation, and reliable service. Since it started, the business has built a good reputation and continues to grow by creating memorable food experiences for every occasion.
 
 ## Website Goals and Objectives
 
