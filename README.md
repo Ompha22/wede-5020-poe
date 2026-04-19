@@ -19,7 +19,7 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-![Website Sitemap](img/mysitemap.png) <br> (The one here is only an example, include your own site map)
+![Website Sitemap](https://github.com/Ompha22/wede-5020-poe/blob/8a956e559516198d02adf53a1cba9102d11f1fba/Site%20Map.png) <br>
 
 ## References
 
