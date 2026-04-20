@@ -23,4 +23,8 @@ In Week 1, the planning phase will focus on defining the website goals and objec
 
 ## References
 
-Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+Idrissi, M. (n.d.). Close-up of refreshments on a table. [online image] Available at: https://www.pexels.com/photo/closeup-of-refreshments-on-a-table-19240003/ (Accessed: 20 April 2026).
+Pexels. (n.d.). Buffet catering food display. [online image] Available at: View buffet images  (Accessed: 20 April 2026).  
+Pexels. (n.d.). Event catering and food service images. [online image] Available at: https://www.pexels.com/search/food%20catering/ (Accessed: 20 April 2026).
+Pexels. (n.d.). Party food and catering setup. [online image] Available at: https://www.pexels.com/search/party%20food/ (Accessed: 20 April 2026).
+Pexels. (n.d.). Catering service and buffet meals. [online image] Available at: https://www.pexels.com/search/food%20service/ (Accessed: 20 April 2026).
