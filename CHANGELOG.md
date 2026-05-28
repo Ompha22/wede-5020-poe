@@ -28,6 +28,58 @@ This project follows Semantic Versioning.
 - Initial project setup
 - Created folder structure for HTML, CSS, and images
 - Added first draft of homepage
+- ## [1.0.0] - 2026-05-29
+### Added
+- Created multi-page website structure:
+  - Home (index.html)
+  - About page
+  - Services page
+  - Contact page
+  - Enquiry page
+
+- Added navigation bar across all pages
+- Added logo display for branding
+- Built basic HTML structure for all pages
+
+---
+
+## [1.1.0] - 2026-05-29
+### Added
+- Created separate CSS files for each page:
+  - index.css
+  - about.css
+  - services.css
+  - contact.css
+  - enquiry.css
+
+### Styled
+- Navigation bar (red theme branding)
+- Footer section
+- Headings and paragraphs
+- Forms (contact & enquiry pages)
+- Buttons and inputs
+
+---
+
+## [1.2.0] - 2026-05-29
+### Improved
+- Added responsive design for mobile and tablets
+- Improved layout spacing and alignment
+- Enhanced readability with better font sizing
+
+### Responsive Features
+- Navigation now wraps on smaller screens
+- Forms scale to full width on mobile
+- Content containers adjust to screen size
+
+---
+
+## [1.3.0] - 2026-05-29
+### Fixed
+- Corrected HTML typos (e.g., `!DOCTYPE` → `<!DOCTYPE html>`)
+- Fixed footer tag errors
+- Standardized button and form styling
+
 ---
 
 ## Semantic Versioning
