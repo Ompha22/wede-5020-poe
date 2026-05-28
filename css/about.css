@@ -1,0 +1,128 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffaf5;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #8b0000;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #ffd700;
+}
+
+/* Logo Image */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+/* Main Content */
+main {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+/* Headings */
+h2 {
+    text-align: center;
+    color: #8b0000;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #b22222;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+
+/* Horizontal Line */
+hr {
+    margin: 20px 0;
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+}
+
+/* Footer */
+footer {
+    background-color: #8b0000;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+footer p {
+    margin: 5px 0;
+}
+/*RESPONSIVE DESIGN*/
+
+/* Tablets */
+@media (max-width: 768px) {
+    h2 {
+        font-size: 22px;
+    }
+
+    nav a {
+        font-size: 16px;
+    }
+
+    main {
+        width: 95%;
+        padding: 20px;
+    }
+}
+
+/* Phones */
+@media (max-width: 480px) {
+    nav {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav a {
+        padding: 8px 0;
+        display: block;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+}
