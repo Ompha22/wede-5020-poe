@@ -21,6 +21,14 @@ In Week 1, the planning phase will focus on defining the website goals and objec
 
 ![Website Sitemap](https://github.com/Ompha22/wede-5020-poe/blob/8a956e559516198d02adf53a1cba9102d11f1fba/Site%20Map.png) <br>
 
+## Part 3 Functionality and SEO Updates
+
+The website was updated for Part 3 with beginner-friendly JavaScript and SEO improvements.
+
+- Interactive elements were added on the home page using an accordion and image lightbox.
+- Dynamic content was added on the services page. The services are loaded from `js/script.js`.
+- Search and category filtering were added so users can find services more easily.
+
 ## References
 
 Idrissi, M. (n.d.). Close-up of refreshments on a table. [online image] Available at: https://www.pexels.com/photo/closeup-of-refreshments-on-a-table-19240003/ (Accessed: 20 April 2026).
