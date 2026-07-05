@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 This project follows Semantic Versioning.
 
-## [1.0.0] - 2026-04-19
+## [1.4.0] - 2026-06-23
 ### Added
 - Created basic website structure (HTML pages)
 - Added Home, About Us, Services, and Contact pages
@@ -43,12 +43,12 @@ This project follows Semantic Versioning.
 
 ---
 
-## [0.1.0] - 2026-04-10
+## [1.0.0] - 2026-06-23
 ### Added
 - Initial project setup
 - Created folder structure for HTML, CSS, and images
 - Added first draft of homepage
-- ## [1.0.0] - 2026-05-29
+- ## [1.0.0] - 2026-06-23
 ### Added
 - Created multi-page website structure:
   - Home (index.html)
@@ -65,7 +65,7 @@ This project follows Semantic Versioning.
 
 ---
 
-## [1.1.0] - 2026-05-29
+## [0.1.0] - 2026-06-23
 ### Added
 - Created separate CSS files for each page:
   - index.css
@@ -86,7 +86,7 @@ This project follows Semantic Versioning.
 
 ---
 
-## [1.2.0] - 2026-05-29
+## [1.2.0] - 2026-06-23
 ### Fixed
 - Added responsive design for mobile and tablets
 - Improved layout spacing and alignment
@@ -99,7 +99,7 @@ This project follows Semantic Versioning.
 
 ---
 
-## [1.3.0] - 2026-05-29
+## [1.3.0] - 2026-06-23
 ### Fixed
 - Corrected HTML typos (e.g., `!DOCTYPE` → `<!DOCTYPE html>`)
 - Fixed footer tag errors
