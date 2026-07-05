@@ -12,14 +12,34 @@ This project follows Semantic Versioning.
 - Added catering service descriptions and menu sections
 - Included contact form for customer enquiries
 - Designed basic styling using CSS
+-  Added JavaScript accordion questions on the home page.
+- Added JavaScript lightbox image preview for the home page gallery.
+- Added dynamic services on the services page using a JavaScript array.
+- Added service search and category filtering.
+- Added JavaScript validation for the enquiry form.
+- Added JavaScript validation for the contact form.
+- Added clear error messages for invalid form fields.
+- Added email preparation for the contact form using `mailto:`.
+- Added `robots.txt` for search engine crawler instructions.
+- Added `sitemap.xml` to list the website pages.
 
-### Changed
+
+### Improved
 - Updated homepage layout to make services more visible
 - Improved readability of menu items and descriptions
+- Added SEO meta descriptions and keywords to website pages.
+- Added descriptive image alt text for better image optimisation.
+- Improved enquiry form fields for event type, guest number and special requests.
+- Improved contact form with message type selection.
+- Improved mobile-friendly styling for new JavaScript features.
+
 
 ### Fixed
 - Fixed broken navigation links between pages
 - Corrected alignment issues on mobile view
+- - Fixed broken and incorrect footer structure on contact and enquiry pages.
+- Fixed spelling and formatting issues in headings and page content.
+- Fixed missing image alternative text on the services page
 
 ---
 
@@ -37,9 +57,11 @@ This project follows Semantic Versioning.
   - Contact page
   - Enquiry page
 
-- Added navigation bar across all pages
-- Added logo display for branding
-- Built basic HTML structure for all pages
+- Built navigation menu for easy browsing
+- Added catering service descriptions and menu sections
+- Included contact form for customer enquiries
+- Designed basic styling using CSS
+  
 
 ---
 
@@ -51,6 +73,9 @@ This project follows Semantic Versioning.
   - services.css
   - contact.css
   - enquiry.css
+  - - Updated homepage layout to make services more visible
+- Improved readability of menu items and descriptions
+
 
 ### Styled
 - Navigation bar (red theme branding)
@@ -62,7 +87,7 @@ This project follows Semantic Versioning.
 ---
 
 ## [1.2.0] - 2026-05-29
-### Improved
+### Fixed
 - Added responsive design for mobile and tablets
 - Improved layout spacing and alignment
 - Enhanced readability with better font sizing
